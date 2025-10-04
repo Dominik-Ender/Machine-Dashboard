@@ -1,0 +1,55 @@
+{
+  "version": 2,
+  "dgSpecHash": "wHXRBoBT9fE=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\aigne\\source\\repos\\MachineDashboard\\MachineDashboard\\MachineDashboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aigne\\.nuget\\packages\\mqttnet\\5.0.1.1416\\mqttnet.5.0.1.1416.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.App.Ref (= 8.0.20)' for 'net8.0-windows7.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org.",
+      "projectPath": "C:\\Users\\aigne\\source\\repos\\MachineDashboard\\MachineDashboard\\MachineDashboard.csproj",
+      "filePath": "C:\\Users\\aigne\\source\\repos\\MachineDashboard\\MachineDashboard\\MachineDashboard.csproj",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Host.win-x64 (= 8.0.20)' for 'net8.0-windows7.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org.",
+      "projectPath": "C:\\Users\\aigne\\source\\repos\\MachineDashboard\\MachineDashboard\\MachineDashboard.csproj",
+      "filePath": "C:\\Users\\aigne\\source\\repos\\MachineDashboard\\MachineDashboard\\MachineDashboard.csproj",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Ref (= 8.0.20)' for 'net8.0-windows7.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org.",
+      "projectPath": "C:\\Users\\aigne\\source\\repos\\MachineDashboard\\MachineDashboard\\MachineDashboard.csproj",
+      "filePath": "C:\\Users\\aigne\\source\\repos\\MachineDashboard\\MachineDashboard\\MachineDashboard.csproj",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.WindowsDesktop.App.Ref (= 8.0.20)' for 'net8.0-windows7.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org.",
+      "projectPath": "C:\\Users\\aigne\\source\\repos\\MachineDashboard\\MachineDashboard\\MachineDashboard.csproj",
+      "filePath": "C:\\Users\\aigne\\source\\repos\\MachineDashboard\\MachineDashboard\\MachineDashboard.csproj",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
